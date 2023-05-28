@@ -1,16 +1,3 @@
-# event_brite_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our software engineering project featuring Eventbrite mobile application.
+Features included: Login or Signup using email, google, or Facebook. Display all event details, book event tickets, search for a specific event. Organize events, create tickets for it, publish it publicly or privately, send an invitation to a specific user.
+Worked with backend team, developer operations team, testing team.
